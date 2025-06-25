@@ -1,11 +1,9 @@
-<img src="https://raw.githubusercontent.com/himanshu2406/Algo.Py/175c0b959180d2f26c4b6854fdd3ba032ad27d91/assets/header_grad.svg" width="100%">
-
 ## Description  
 
-**algo.py** is a robust, Python-first algorithmic trading framework designed for traders, developers, and institutions to build, test, and deploy trading strategies with unparalleled speed and flexibility. Built for modern markets, it bridges the gap between strategy ideation and live execution by combining a lightning-fast backtesting engine, a unified data layer, and broker-agnostic deployment tools.  
+**AlgoTrading** is a robust, Python-first algorithmic trading framework designed for traders, developers, and institutions to build, test, and deploy trading strategies with unparalleled speed and flexibility. Built for modern markets, it bridges the gap between strategy ideation and live execution by combining a lightning-fast backtesting engine, a unified data layer, and broker-agnostic deployment tools.  
 
 🔹 **Join the official Discord Server:** [Click here](https://discord.gg/tpFrXJYFsf)  
-🎥 **View Algo.Py's Tutorials:** [Watch on YouTube](https://www.youtube.com/watch?v=J_krHhmF_No&list=PLzFdtaNfzY4USYC9UYjTz5hgHrJjNwGZS) 
+🎥 **View AlgoTrading's Tutorials:** [Watch on YouTube](https://www.youtube.com/watch?v=J_krHhmF_No&list=PLzFdtaNfzY4USYC9UYjTz5hgHrJjNwGZS) 
 
 Docs : https://himanshu2406.github.io/Algo.Py/
 
@@ -15,7 +13,7 @@ The framework empowers users to:
 - **Optimize execution** with AI-enhanced order management (OMS), fee-saving algorithms, and real-time risk controls (RMS).  
 - **Visualize markets** through institutional-grade charts (footprint, DOM, volume bubbles) and live dashboards.  
 
-Whether you're automating a simple moving average strategy or building high-frequency arbitrage bots for crypto, **algo.py** provides the infrastructure, speed, and intelligence to trade confidently across global markets.  
+Whether you're automating a simple moving average strategy or building high-frequency arbitrage bots for crypto, **AlgoTrading** provides the infrastructure, speed, and intelligence to trade confidently across global markets.  
 
 [![GitHub Issues](https://img.shields.io/github/issues/himanshu2406/Algo.Py)](https://github.com/himanshu2406/Algo.Py/issues)
 [![GitHub Stars](https://img.shields.io/github/stars/himanshu2406/Algo.Py)](https://github.com/himanshu2406/Algo.Py/stargazers)
@@ -71,11 +69,11 @@ Whether you're automating a simple moving average strategy or building high-freq
 ---
 
 ## 🚀 **Installation**
-To setup **Algo.Py**, run:
+To setup **AlgoTrading**, run:
 
 ```bash
-git clone https://github.com/himanshu2406/Algo.Py.git
-cd Algo.Py
+git clone https://github.com/jurgen-siegel/Algo-Trading.git
+cd Algo-Trading
 docker compose up -d
 ```
 📺 **Watch the YouTube tutorial for a step-by-step installation guide:**  
@@ -85,7 +83,7 @@ docker compose up -d
 ---
 
 ## ⚡ **Quick Start**
-Here’s how you can start **Algo.Py Dashboard**:
+Here's how you can start **AlgoTrading Dashboard**:
 
 ```bash
 docker exec -it algopy_app bash
@@ -110,8 +108,8 @@ We welcome contributions! To contribute:
 2. **Clone** your forked repo:
 
    ```bash
-   git clone https://github.com/himanshu2406/Algo.Py.git
-   cd Algo.Py
+   git clone https://github.com/jurgen-siegel/Algo-Trading.git
+   cd Algo-Trading
    ```
 
 3. **Create a new branch**:
@@ -135,7 +133,7 @@ We welcome contributions! To contribute:
 ---
 
 ## 📜 **License**
-**AlgoPy is licensed under the AlgoPy Personal Use License.**
+**AlgoTrading is licensed under the AlgoTrading Personal Use License.**
 - ✅ Free for personal & research use.
 - ❌ Cannot be used in paid products, SaaS, hedge funds, or financial firms without a commercial license.
 - 📝 See the [LICENSE](LICENSE) file for details.
@@ -143,7 +141,6 @@ We welcome contributions! To contribute:
 ---
 
 ## 📬 **Contact**
-📧 Email: **himanshuclash@gmail.com**  
 📌 LinkedIn: [Himanshu Rathore](https://www.linkedin.com/in/rathore-himanshu/)  
 
 ---
