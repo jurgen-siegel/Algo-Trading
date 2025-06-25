@@ -10,10 +10,6 @@ The framework empowers users to:
 
 Whether you're automating a simple moving average strategy or building high-frequency arbitrage bots for crypto, **AlgoTrading** provides the infrastructure, speed, and intelligence to trade confidently across global markets.  
 
-[![GitHub Issues](https://img.shields.io/github/issues/himanshu2406/Algo.Py)](https://github.com/himanshu2406/Algo.Py/issues)
-[![GitHub Stars](https://img.shields.io/github/stars/himanshu2406/Algo.Py)](https://github.com/himanshu2406/Algo.Py/stargazers)
-[![GitHub License](https://img.shields.io/github/license/himanshu2406/Algo.Py)](LICENSE)
-
 ---
 
 ## 📖 **Table of Contents**
