@@ -133,6 +133,6 @@ We welcome contributions! To contribute:
 ---
 
 ## 📬 **Contact**
-📌 LinkedIn: [Himanshu Rathore](https://www.linkedin.com/in/rathore-himanshu/)  
+📌 LinkedIn: [Jurgen Siegel](https://www.linkedin.com/in/jurgen-siegel-b5a7b2282/)  
 
 ---
